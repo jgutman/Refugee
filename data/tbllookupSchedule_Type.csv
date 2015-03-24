@@ -1,0 +1,29 @@
+1,"**","Non-Work",2002-11-21 12:46:14.360000000,"EOIRHDQ\eckertk",,"","N",True,True
+29,"--","UNKNOWN",2007-10-18 08:26:28.770000000,"admin",2007-10-18 08:26:28.770000000,"admin","-",False,True
+23,"AA","Administrative",,"",,"","N",True,True
+21,"AD","Admin Leave",2002-11-21 12:46:14.360000000,"EOIRHDQ\eckertk",,"","S",True,True
+25,"AN","Annual Leave",,"",,"","S",True,True
+2,"AT","Attorney Discipline",2002-11-21 12:46:14.360000000,"EOIRHDQ\eckertk",,"","M",True,True
+3,"CI","Circulation",2002-11-21 12:46:14.360000000,"EOIRHDQ\eckertk",,"","I",False,True
+4,"CN","Conference",2002-11-21 12:46:14.360000000,"EOIRHDQ\eckertk",,"","S",True,True
+6,"CU","CU - OIL",2002-11-21 12:46:14.360000000,"EOIRHDQ\eckertk",,"","I",False,True
+7,"CY","Custody",2002-11-21 12:46:14.360000000,"EOIRHDQ\eckertk",,"","I",True,True
+24,"DT","Detail",,"",,"","S",True,True
+22,"ED","Reasonable Cause",,"",,"","M",True,True
+9,"IA","Individual Asylum",2002-11-21 12:46:14.360000000,"EOIRHDQ\eckertk",,"","I",True,True
+10,"ID","Individual Detainee",2002-11-21 12:46:14.360000000,"EOIRHDQ\eckertk",,"","I",True,True
+8,"II","Individual",2002-11-21 12:46:14.360000000,"EOIRHDQ\eckertk",,"","I",True,True
+11,"IR","Individual Reset",2002-11-21 12:46:14.360000000,"EOIRHDQ\eckertk",,"","I",True,True
+13,"MA","Master Asylum",2002-11-21 12:46:14.360000000,"EOIRHDQ\eckertk",,"","M",True,True
+14,"MD","Detained Master",2002-11-21 12:46:14.360000000,"EOIRHDQ\eckertk",,"","M",False,True
+12,"MM","Initial Master",2002-11-21 12:46:14.360000000,"EOIRHDQ\eckertk",,"","M",True,True
+15,"MR","Master Reset",2002-11-21 12:46:14.360000000,"EOIRHDQ\eckertk",,"","M",True,True
+16,"NA","Naturalization",2002-11-21 12:46:14.360000000,"EOIRHDQ\eckertk",,"","M",False,True
+28,"RD"," Detained Master Reset ",,"",,"","M",False,True
+5,"RR","Credible/Reasonable Fear",2002-11-21 12:46:14.360000000,"EOIRHDQ\eckertk",2003-11-10 00:00:00,"systemadmin1","I",True,True
+18,"SD","Special Circumstance",2002-11-21 12:46:14.360000000,"EOIRHDQ\eckertk",,"","I",True,True
+27,"SL","Sick Leave",,"",,"","S",True,True
+19,"TC","Teleconference",2002-11-21 12:46:14.360000000,"EOIRHDQ\eckertk",,"","S",False,True
+17,"TD","Reasonable Cause Reset",2002-11-21 12:46:14.360000000,"EOIRHDQ\eckertk",,"","M",True,True
+26,"TR","Travel",,"",,"","S",True,True
+20,"VC","Video Conference",2002-11-21 12:46:14.360000000,"EOIRHDQ\eckertk",,"","S",False,True
