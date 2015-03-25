@@ -1,0 +1,264 @@
+idncase							almost unique identifier, but some (3-4%) case numbers correspond to up to 5 proceedings
+idnproceeding					unique identifier for each proceeding
+hearing_loc_code				identifier for a court at the city hearing level, there may be multiple hloc corresponding to same courtid
+ij_code							identifier of each judge (see ijcodemap.csv)
+comp_date						date of court case in number of days since 01/01/1960
+lawyer							has attorney, if 0 then eoirattyid and alienattyid will be null as well
+defensive						whether refugee was in defensive (i.e. being deported) or affirmative status (i.e. seek out asylum)
+natid							nationality of refugee (see tblLookupNationality.csv)
+written							whether a written opinion was issued
+flag_decisionerror_strdes
+flag_decisionerror_idncaseproc
+adj_time_start
+flag_earlystarttime
+eoirattyid						unique ID for each EOIR attorney (will have a alienattyID as well)
+alienattyid						unique ID for each alien attorney, if this is non-null, eoirattyid will be non-null and lawyer = 1
+flag_mismatch_base_city
+flag_mismatch_hearing
+courtid							identifier of the court at a city level, all courts in same city wil have same courtid
+ij_court_code					identifier for each combination of judge and city (some judges may appear in multiple cities if they move around)
+numanycasesperday				
+flag_multiple_proceedings
+flag_notfirstproceeding
+flag_multiple_proceedings2
+grant							labeled target (make sure to remove from feature set)
+flag_notfirstproceeding2
+flag_prevprocgrant
+flag_prevprocdeny
+numasylumcasesperday
+famcode							unique ID for each family
+numinfamily
+numpeopleperday
+min_osc_date
+max_osc_date
+min_input_date
+max_input_date
+flag_unknowntime
+flag_unknownorderwithinday
+numfamsperslot					we may have multiple families in the same slot, but if so we will only have decisions for one of them
+numfamsperday
+orderwithinday
+orderwithindayraw
+lastindayD
+order_raw
+comp_dow
+grantraw						based directly on grant, make sure to remove from dataset to avoid leakage
+L1grant							previous (l1 grant decision) all time lags done by ij_court_code
+L1grant_sameday
+L2grant
+L2grant_sameday
+grant2							based directly on grant, make sure to remove from dataset to avoid leakage
+L1grant2
+L2grant2
+numgrant_prev5
+numgrant_prev6
+numgrant_prev7
+numgrant_prev8
+numgrant_prev9
+numgrant_prev10
+prev5_dayslapse
+prev6_dayslapse
+prev7_dayslapse
+prev8_dayslapse
+prev9_dayslapse
+prev10_dayslapse
+raw_order_court
+numcourtgrant_prev5				
+numcourtgrantself_prev5
+numcourtdecideself_prev5
+numcourtgrant_prev6
+numcourtdecideself_prev6
+numcourtgrantself_prev6
+numcourtgrant_prev7
+numcourtdecideself_prev7
+numcourtgrantself_prev7
+numcourtgrant_prev8
+numcourtdecideself_prev8
+numcourtgrantself_prev8
+numcourtgrant_prev9
+numcourtdecideself_prev9
+numcourtgrantself_prev9
+numcourtgrant_prev10
+numcourtdecideself_prev10
+numcourtgrantself_prev10
+numcourtgrant_prev11
+numcourtdecideself_prev11
+numcourtgrantself_prev11
+numcourtgrant_prev12
+numcourtdecideself_prev12
+numcourtgrantself_prev12
+numcourtgrant_prev13
+numcourtdecideself_prev13
+numcourtgrantself_prev13
+numcourtgrant_prev14
+numcourtdecideself_prev14
+numcourtgrantself_prev14
+numcourtgrant_prev15
+numcourtdecideself_prev15
+numcourtgrantself_prev15
+numcourtgrant_prev16
+numcourtdecideself_prev16
+numcourtgrantself_prev16
+numcourtgrant_prev17
+numcourtdecideself_prev17
+numcourtgrantself_prev17
+numcourtgrant_prev18
+numcourtdecideself_prev18
+numcourtgrantself_prev18
+numcourtgrant_prev19
+numcourtdecideself_prev19
+numcourtgrantself_prev19
+numcourtgrant_prev20
+numcourtdecideself_prev20
+numcourtgrantself_prev20
+courtprev5_dayslapse
+courtprev6_dayslapse
+courtprev7_dayslapse
+courtprev8_dayslapse
+courtprev9_dayslapse
+courtprev10_dayslapse
+courtprev11_dayslapse
+courtprev12_dayslapse
+courtprev13_dayslapse
+courtprev14_dayslapse
+courtprev15_dayslapse
+courtprev16_dayslapse
+courtprev17_dayslapse
+courtprev18_dayslapse
+courtprev19_dayslapse
+courtprev20_dayslapse
+* numcourtgrantother_prev5		number of grants within same court, excluding the current judge
+courtprevother5_dayslapse
+numcourtgrantother_prev6
+courtprevother6_dayslapse
+numcourtgrantother_prev7
+courtprevother7_dayslapse
+numcourtgrantother_prev8
+courtprevother8_dayslapse
+numcourtgrantother_prev9
+courtprevother9_dayslapse
+numcourtgrantother_prev10
+courtprevother10_dayslapse
+year							Calendar year of court case 
+meangrant_judge
+numdecisions_judge
+lomeangrant_judge
+meangrantraw_judge
+numdecisionsraw_judge
+lomeangrantraw_judge
+moderategrant3070
+moderategrantraw3070
+meangrant_judgenat				mean grant rate per judge x nationality
+numdecisions_judgenat			total number of decisions (grant or deny) for a particular judge x nationality
+lomeangrant_judgenat
+meangrantraw_judgenat
+numdecisionsraw_judgenat
+lomeangrantraw_judgenat
+meangrant_judgedef
+numdecisions_judgedef
+lomeangrant_judgedef
+meangrantraw_judgedef
+numdecisionsraw_judgedef
+lomeangrantraw_judgedef
+meangrant_judgenatdef
+numdecisions_judgenatdef
+lomeangrant_judgenatdef
+meangrantraw_judgenatdef
+numdecisionsraw_judgenatdef
+lomeangrantraw_judgenatdef
+meangrant_judgelawyer
+numdecisions_judgelawyer
+lomeangrant_judgelawyer
+meangrantraw_judgelawyer
+numdecisionsraw_judgelawyer
+lomeangrantraw_judgelawyer
+natcourtcode
+natdefcode
+natdefcourtcode
+courtmeanyear
+courtmeannatyear
+courtmeannatdefyear
+judgemeanyear
+judgemeannatyear
+judgemeannatdefyear
+judgenumdecyear
+judgenumdecnatyear
+judgenumdecnatdefyear
+lojudgemeanyear
+lojudgemeannatyear
+lojudgemeannatdefyear
+difmeanyear
+difmeannatyear
+difmeannatdefyear
+absdifmeanyear
+absdifmeannatyear
+absdifmeannatdefyear
+outliermeanyear
+outliermeannatyear
+outliermeannatdefyear
+negoutliermeanyear
+negoutliermeannatyear
+negoutliermeannatdefyear
+moderategrantrawnatdef
+samenat
+haseoir							has an eoir attorney (if true, lawyer is also true)
+samedefensive
+grantgrant						previous two decisions were both granted
+grantdeny						previous decision denied and one before that was granted
+denygrant						previous decision was granted and one before that was denied
+denydeny						previous two decisions were both denied
+hour_start						hour of start time, from 6 (6am) to 17 (5 pm)
+morning							1 if started before noon, 0 otherwise
+lunchtime						1 if started between noon and 2pm, 0 otherwise
+afternoon						1 if started after 2 pm, 0 otherwise
+numcases_judgeday
+numcases_judge
+numcases_court
+numcases_court_hearing
+avgnumanycasesperday
+avgnumasylumcasesperday
+avgnumpeopleperday
+avgnumfamsperday
+LastName
+FirstName
+Gender							Gender of judge, M or F, redundant with Male_judge
+FirstUndergrad
+JudgeUndergradLocation
+LawSchool
+JudgeLawSchoolLocation
+Bar
+OtherLocationsMentioned
+IJ_NAME
+Judge_name_SLR
+Male_judge						Male judge 0 or 1, recoding of Gender
+Court_SLR
+DateofAppointment
+Year_Appointed_SLR
+YearofFirstUndergradGraduatio
+Year_College_SLR
+Year_Law_school_SLR
+President_SLR
+Government_Years_SLR
+Govt_nonINS_SLR
+INS_Years_SLR
+INS_Every5Years_SLR
+Military_Years_SLR
+NGO_Years_SLR
+Privateprac_Years_SLR
+Academia_Years_SLR
+judge_name_caps
+experience
+experience8
+log_experience
+log_gov_experience
+log_INS_experience
+log_military_experience
+log_private_experience
+log_academic_experience
+govD
+INSD
+militaryD
+privateD
+academicD
+democrat
+republican
