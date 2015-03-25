@@ -219,8 +219,8 @@ avgnumanycasesperday
 avgnumasylumcasesperday
 avgnumpeopleperday
 avgnumfamsperday
-LastName
-FirstName
+LastName						Judge last name
+FirstName						Judge first name
 Gender							Gender of judge, M or F, redundant with Male_judge
 FirstUndergrad
 JudgeUndergradLocation
@@ -228,8 +228,8 @@ LawSchool
 JudgeLawSchoolLocation
 Bar
 OtherLocationsMentioned
-IJ_NAME
-Judge_name_SLR
+IJ_NAME							Judge full name
+Judge_name_SLR					Judge full name
 Male_judge						Male judge 0 or 1, recoding of Gender
 Court_SLR
 DateofAppointment
@@ -237,7 +237,7 @@ Year_Appointed_SLR
 YearofFirstUndergradGraduatio
 Year_College_SLR
 Year_Law_school_SLR
-President_SLR
+President_SLR					President that appointed the judge
 Government_Years_SLR
 Govt_nonINS_SLR
 INS_Years_SLR
@@ -246,7 +246,7 @@ Military_Years_SLR
 NGO_Years_SLR
 Privateprac_Years_SLR
 Academia_Years_SLR
-judge_name_caps
+judge_name_caps					Judge full name
 experience
 experience8
 log_experience
@@ -260,5 +260,5 @@ INSD
 militaryD
 privateD
 academicD
-democrat
-republican
+democrat					1 if appointed by a democrat president
+republican					1 if appointed by a republican president
