@@ -1,0 +1,509 @@
+ALL YEARS
+CHINA          101684
+EL SALVADOR     41539
+HAITI           39024
+GUATEMALA       30840
+INDIA           18228
+COLOMBIA        16656
+NICARAGUA       14811
+MEXICO          14651
+HONDURAS        10204
+ETHIOPIA         9276
+INDONESIA        8763
+ALBANIA          8488
+CUBA             8392
+PAKISTAN         7734
+RUSSIA           6451
+
+Year : 1985
+EL SALVADOR    640
+HAITI          413
+NICARAGUA      210
+IRAN           136
+CUBA           113
+GUATEMALA       86
+INDIA           38
+AFGHANISTAN     37
+YUGOSLAVIA      36
+ETHIOPIA        28
+HONDURAS        25
+PAKISTAN        25
+COLOMBIA        23
+PHILIPPINES     23
+CHINA           20
+ 
+Year : 1986
+EL SALVADOR    1217
+NICARAGUA       519
+HAITI           372
+CUBA            261
+IRAN            206
+GUATEMALA       160
+INDIA            88
+CHINA            68
+YUGOSLAVIA       63
+PHILIPPINES      45
+POLAND           40
+PAKISTAN         38
+AFGHANISTAN      35
+HONDURAS         32
+BANGLADESH       31
+ 
+Year : 1987
+EL SALVADOR    1628
+NICARAGUA       796
+CUBA            320
+IRAN            304
+GUATEMALA       229
+HAITI           170
+YUGOSLAVIA      158
+POLAND          135
+INDIA            96
+CHINA            92
+AFGHANISTAN      80
+ETHIOPIA         69
+LEBANON          56
+HONDURAS         53
+PHILIPPINES      45
+ 
+Year : 1988
+EL SALVADOR    2626
+NICARAGUA      1397
+CUBA            662
+GUATEMALA       413
+IRAN            298
+POLAND          159
+AFGHANISTAN     124
+HONDURAS        123
+HAITI           122
+YUGOSLAVIA      107
+LEBANON          70
+ETHIOPIA         68
+SRI LANKA        59
+CHINA            56
+INDIA            56
+ 
+Year : 1989
+EL SALVADOR    2649
+NICARAGUA      1702
+GUATEMALA       526
+CUBA            516
+HAITI           463
+AFGHANISTAN     294
+POLAND          209
+IRAN            205
+HONDURAS        202
+SRI LANKA        83
+YUGOSLAVIA       81
+LEBANON          77
+ETHIOPIA         68
+INDIA            64
+CHINA            60
+ 
+Year : 1990
+EL SALVADOR    3408
+NICARAGUA      2063
+GUATEMALA       638
+HAITI           549
+CUBA            404
+AFGHANISTAN     403
+POLAND          289
+IRAN            239
+HONDURAS        233
+YUGOSLAVIA      105
+LEBANON         101
+ETHIOPIA         90
+CHINA            64
+PHILIPPINES      52
+PERU             49
+ 
+Year : 1991
+NICARAGUA      1597
+EL SALVADOR     711
+HAITI           605
+AFGHANISTAN     470
+CUBA            393
+CHINA           391
+HONDURAS        340
+IRAN            199
+POLAND          170
+GUATEMALA       139
+ETHIOPIA        139
+INDIA           115
+YUGOSLAVIA       79
+PERU             79
+ROMANIA          60
+ 
+Year : 1992
+CHINA          1088
+NICARAGUA       942
+EL SALVADOR     896
+INDIA           656
+HAITI           539
+GUATEMALA       389
+AFGHANISTAN     368
+HONDURAS        252
+CUBA            239
+PAKISTAN        196
+BANGLADESH      122
+GHANA           117
+IRAN            111
+YUGOSLAVIA      111
+PERU            106
+ 
+Year : 1993
+CHINA          1820
+NICARAGUA       784
+EL SALVADOR     553
+INDIA           539
+HAITI           435
+GUATEMALA       380
+PAKISTAN        280
+CUBA            202
+HONDURAS        164
+ROMANIA         163
+AFGHANISTAN     152
+BANGLADESH      138
+YUGOSLAVIA      131
+PERU            128
+GHANA           119
+ 
+Year : 1994
+CHINA          1971
+HAITI           822
+INDIA           813
+NICARAGUA       701
+EL SALVADOR     649
+GUATEMALA       580
+PAKISTAN        513
+CUBA            247
+GHANA           240
+HONDURAS        237
+ROMANIA         222
+YUGOSLAVIA      209
+PHILIPPINES     183
+PERU            182
+BANGLADESH      159
+ 
+Year : 1995
+CHINA          2930
+GUATEMALA      2370
+EL SALVADOR    1517
+HAITI          1209
+INDIA          1062
+NICARAGUA       705
+HONDURAS        605
+PAKISTAN        557
+MEXICO          481
+GHANA           411
+PERU            372
+CUBA            364
+PHILIPPINES     340
+ETHIOPIA        325
+BANGLADESH      313
+ 
+Year : 1996
+GUATEMALA      3780
+CHINA          2776
+EL SALVADOR    2654
+HAITI          1712
+INDIA          1183
+MEXICO          975
+HONDURAS        898
+NICARAGUA       753
+PAKISTAN        722
+BANGLADESH      572
+ETHIOPIA        482
+PHILIPPINES     470
+PERU            468
+MAURITANIA      456
+CUBA            396
+ 
+Year : 1997
+CHINA          2842
+EL SALVADOR    2501
+GUATEMALA      2380
+HAITI          1901
+MEXICO         1265
+INDIA           860
+SOMALIA         610
+MAURITANIA      556
+HONDURAS        544
+NICARAGUA       501
+BANGLADESH      489
+ETHIOPIA        445
+PAKISTAN        432
+CUBA            372
+RUSSIA          341
+ 
+Year : 1998
+CHINA          3667
+EL SALVADOR    2146
+GUATEMALA      2034
+HAITI          1204
+INDIA          1151
+MEXICO          882
+SOMALIA         585
+MAURITANIA      568
+HONDURAS        500
+ALBANIA         439
+PAKISTAN        407
+NIGERIA         396
+BANGLADESH      395
+RUSSIA          389
+ETHIOPIA        382
+ 
+Year : 1999
+CHINA          4549
+GUATEMALA      1850
+EL SALVADOR    1837
+HAITI          1616
+INDIA          1287
+SOMALIA         709
+MAURITANIA      561
+PERU            476
+MEXICO          473
+RUSSIA          466
+ALBANIA         460
+CUBA            453
+BANGLADESH      411
+ETHIOPIA        355
+NIGERIA         353
+ 
+Year : 2000
+CHINA          5004
+HAITI          2258
+EL SALVADOR    1275
+GUATEMALA      1115
+INDIA          1062
+SOMALIA         854
+ALBANIA         618
+RUSSIA          487
+CUBA            480
+ETHIOPIA        421
+MAURITANIA      382
+VIETNAM         379
+COLOMBIA        376
+MEXICO          371
+PAKISTAN        357
+ 
+Year : 2001
+CHINA          5862
+HAITI          2804
+INDIA           879
+COLOMBIA        856
+GUATEMALA       815
+ALBANIA         722
+SOMALIA         565
+ETHIOPIA        466
+EL SALVADOR     462
+MEXICO          412
+RUSSIA          403
+ARMENIA         390
+IRAN            343
+CUBA            340
+SRI LANKA       325
+ 
+Year : 2002
+CHINA          7228
+HAITI          2604
+COLOMBIA       1943
+INDIA          1036
+ALBANIA         942
+GUATEMALA       757
+INDONESIA       674
+ARMENIA         601
+ETHIOPIA        565
+MEXICO          535
+SOMALIA         430
+RUSSIA          425
+EL SALVADOR     389
+IRAN            352
+MAURITANIA      351
+ 
+Year : 2003
+CHINA          7582
+COLOMBIA       2828
+HAITI          2680
+INDIA          1430
+ALBANIA        1041
+INDONESIA      1003
+GUATEMALA       913
+ARMENIA         754
+MEXICO          689
+EL SALVADOR     600
+RUSSIA          525
+CAMEROON        477
+ETHIOPIA        441
+PAKISTAN        416
+GUINEA          412
+ 
+Year : 2004
+CHINA          5771
+HAITI          2758
+COLOMBIA       2668
+INDONESIA      1431
+GUATEMALA       944
+ALBANIA         927
+INDIA           898
+EL SALVADOR     671
+MEXICO          606
+CAMEROON        569
+ARMENIA         558
+ETHIOPIA        515
+PAKISTAN        489
+MAURITANIA      454
+GUINEA          449
+ 
+Year : 2005
+CHINA          5410
+HAITI          2926
+COLOMBIA       1980
+INDONESIA      1315
+GUATEMALA       958
+EL SALVADOR     844
+INDIA           788
+ALBANIA         720
+MEXICO          485
+GUINEA          479
+CAMEROON        478
+MAURITANIA      462
+ARMENIA         440
+VENEZUELA       439
+ETHIOPIA        422
+ 
+Year : 2006
+CHINA          6026
+HAITI          2801
+COLOMBIA       1463
+EL SALVADOR    1197
+INDONESIA      1167
+GUATEMALA      1044
+INDIA           748
+ALBANIA         618
+GUINEA          555
+ETHIOPIA        521
+VENEZUELA       514
+CAMEROON        494
+HONDURAS        460
+MEXICO          401
+MAURITANIA      399
+ 
+Year : 2007
+CHINA          5673
+HAITI          2724
+EL SALVADOR    1737
+GUATEMALA      1247
+COLOMBIA       1140
+INDIA           645
+INDONESIA       591
+HONDURAS        531
+ETHIOPIA        507
+VENEZUELA       467
+GUINEA          467
+ALBANIA         419
+MEXICO          376
+CAMEROON        315
+RUSSIA          304
+ 
+Year : 2008
+CHINA          4961
+HAITI          2288
+EL SALVADOR    1593
+GUATEMALA      1397
+COLOMBIA        763
+INDONESIA       520
+HONDURAS        510
+INDIA           488
+MEXICO          427
+ETHIOPIA        425
+VENEZUELA       401
+GUINEA          390
+IRAQ            365
+ALBANIA         345
+RUSSIA          256
+ 
+Year : 2009
+CHINA          4940
+HAITI          1758
+EL SALVADOR    1482
+GUATEMALA      1286
+COLOMBIA        522
+MEXICO          520
+ETHIOPIA        469
+HONDURAS        458
+INDIA           425
+INDONESIA       422
+VENEZUELA       301
+GUINEA          297
+CAMEROON        266
+IRAQ            265
+NEPAL           251
+ 
+Year : 2010
+CHINA          5186
+EL SALVADOR    1358
+GUATEMALA      1198
+MEXICO          792
+HONDURAS        512
+ETHIOPIA        506
+COLOMBIA        408
+INDIA           386
+NEPAL           329
+INDONESIA       329
+HAITI           318
+SOMALIA         282
+RUSSIA          265
+GUINEA          262
+CAMEROON        251
+ 
+Year : 2011
+CHINA          6622
+EL SALVADOR    1668
+MEXICO         1628
+GUATEMALA      1321
+HONDURAS        703
+ERITREA         568
+INDIA           567
+ETHIOPIA        557
+NEPAL           504
+COLOMBIA        329
+JAMAICA         309
+GUINEA          307
+HAITI           285
+RUSSIA          269
+EGYPT           265
+ 
+Year : 2012
+CHINA          6354
+MEXICO         2061
+EL SALVADOR    1646
+GUATEMALA      1310
+HONDURAS        758
+INDIA           548
+NEPAL           501
+ETHIOPIA        476
+ERITREA         353
+HAITI           341
+JAMAICA         273
+RUSSIA          257
+GUINEA          239
+CAMEROON        236
+INDONESIA       232
+ 
+Year : 2013
+CHINA           2658
+MEXICO          1070
+EL SALVADOR      804
+GUATEMALA        569
+HONDURAS         457
+INDIA            266
+NEPAL            223
+ETHIOPIA         210
+HAITI            194
+EGYPT            116
+JAMAICA          111
+ERITREA          106
+COLOMBIA          96
+SOVIET UNION      88
+RUSSIA            88
