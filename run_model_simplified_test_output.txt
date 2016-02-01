@@ -1,0 +1,4 @@
+ Train percent error:  0.0
+ Test percent error:  46.4696635065
+ Train Error:  0.313313167206
+ Test Error:  37.1165141242
